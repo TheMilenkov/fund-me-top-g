@@ -158,6 +158,6 @@ forge fmt
 
 ## 🙏 Thank You!
 
-This project was inspired by the [Cyfrin Updraft](https://github.com/Cyfrin/updraft) course and built with ❤️ by [Georgi Milenkov](https://github.com/YourUsername).
+This project was inspired by the [Cyfrin Updraft](https://github.com/Cyfrin/updraft) course and built with ❤️ by [TheMilenkov](https://github.com/TheMilenkov).
 
 Feel free to fork, test, and deploy. If you liked it — give it a ⭐ on GitHub!
